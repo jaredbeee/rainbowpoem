@@ -7,4 +7,5 @@ Green
 Blue
 Indigo
 Violet
+gold
  this is the colors of the rainbow and the unicorn
